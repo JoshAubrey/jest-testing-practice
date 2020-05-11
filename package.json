@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "Test driven development practice using jest.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.0.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshAubrey/jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshAubrey/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/JoshAubrey/jest-testing-practice#readme"
+}
